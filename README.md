@@ -1,2 +1,2 @@
 # ADePT
-Cooming Soon
+Coming Soon

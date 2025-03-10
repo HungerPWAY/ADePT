@@ -2,7 +2,7 @@
 This the implementation of [ADePT: Adaptive Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning](https://openreview.net/forum?id=fswihJIYbd)
 
 # A sample
-'''
+```
 MODEL=t5-base
 MAX_LENGTH=256
 MAX_STEPS=30000
@@ -42,7 +42,7 @@ for TASK_NAME in rte; do
         done;
     done;
 done
-'''
+```
 # More coming soon
 
 

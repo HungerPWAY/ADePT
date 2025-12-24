@@ -43,8 +43,7 @@ for TASK_NAME in rte; do
     done;
 done
 ```
-# More coming soon
 
 # Acknowledgments
-Our code is modified from https://github.com/ZhengxiangShi/DePT
+Our code is built upon https://github.com/ZhengxiangShi/DePT
 

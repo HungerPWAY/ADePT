@@ -1,5 +1,5 @@
 # ADePT
-This the implementation of [ADePT: Adaptive Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning](https://openreview.net/forum?id=fswihJIYbd)
+This the implementation of [ADePT: Adaptive Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning](ICLR 2025 poster)(https://openreview.net/forum?id=fswihJIYbd)
 
 # The script for bash
 ```

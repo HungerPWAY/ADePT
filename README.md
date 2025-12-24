@@ -45,5 +45,10 @@ done
 ```
 
 # Acknowledgments
-Our code is built upon https://github.com/ZhengxiangShi/DePT
+This repository is built upon the following repositories:
+- [DePT](https://github.com/ZhengxiangShi/DePT)
+- [PowerfulPromptFT](https://github.com/ZhengxiangShi/PowerfulPromptFT)
+- [pretraining-or-self-training](https://github.com/amzn/pretraining-or-self-training)
+- [Huggingface Transformers](https://github.com/huggingface/transformers)
+- [Huggingface PEFT](https://github.com/huggingface/peft)
 

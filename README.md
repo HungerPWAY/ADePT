@@ -53,6 +53,7 @@ This repository is built upon the following repositories:
 - [Huggingface PEFT](https://github.com/huggingface/peft)
 
 # Citation
+```
 @inproceedings{
 tang2025adept,
 title={{AD}e{PT}: Adaptive Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning},
@@ -61,4 +62,5 @@ booktitle={The Thirteenth International Conference on Learning Representations},
 year={2025},
 url={https://openreview.net/forum?id=fswihJIYbd}
 }
+```
 

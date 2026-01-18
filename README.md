@@ -52,3 +52,13 @@ This repository is built upon the following repositories:
 - [Huggingface Transformers](https://github.com/huggingface/transformers)
 - [Huggingface PEFT](https://github.com/huggingface/peft)
 
+# Citation
+@inproceedings{
+tang2025adept,
+title={{AD}e{PT}: Adaptive Decomposed Prompt Tuning for Parameter-Efficient Fine-tuning},
+author={Pengwei Tang and Xiaolin Hu and Yong Liu},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=fswihJIYbd}
+}
+
